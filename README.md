@@ -11,6 +11,6 @@
  - [x] jQuery functionalities;
  
  # Images
-![image](https://i.imgur.com/U4kjFVw.jpg)
+![image](https://i.imgur.com/Yx5uexF.png)
 
-![image](https://i.imgur.com/7BICvPT.jpg)
+![image](https://i.imgur.com/yXC4wfo.jpg)
