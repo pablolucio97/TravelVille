@@ -3,7 +3,7 @@
  
  ### Features
  - [x] Search Bar with Autocomplete feature;
- - [x] Dinamyc Image Slider;
+ - [x] Dynamic Image Slider;
  - [x] Materialize CSS components;
  - [x] ScrollSpy;
  - [x] Responsive Images;
