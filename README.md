@@ -1,5 +1,5 @@
 # TravelVille
- A beautiful responsive website layout cloned from the video https://www.youtube.com/watch?v=MaP3vO-vEsg using Materialize css and jQuery functionalities.
+ A beautiful responsive website layout using Materialize css and jQuery functionalities.
  
  ### Features
  - [x] Search Bar with Autocomplete feature;
