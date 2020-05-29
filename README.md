@@ -13,6 +13,6 @@
  ### Responsive layout
 ![image](https://i.imgur.com/Yx5uexF.png)
 
- ### Visit us: https://pablolucio97.github.io/TravelVille/. 
+ Visit us: https://pablolucio97.github.io/TravelVille/. 
  
 ![Website](https://img.shields.io/website?up_color=green&up_message=online&url=https%3A%2F%2Fpablolucio97.github.io%2FTravelVille%2F)
